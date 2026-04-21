@@ -1,0 +1,1 @@
+# How to expose a private React App running on ECS Fargate via AWS API Gateway

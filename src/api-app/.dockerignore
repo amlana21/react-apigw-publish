@@ -1,0 +1,14 @@
+# Exclude development and unnecessary files
+node_modules
+.git
+.github
+.next
+.vscode
+*.md
+.env*
+.gitignore
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+Dockerfile
+.dockerignore
